@@ -18,4 +18,7 @@ This is an offline Symptom Checker web application built using ASP.NET and SQL S
 3. Run the project
 
 ##Output
-![App Screenshot](Screenshot(123).png)
+![Home](home.png)
+![Result](result.png)
+![Result2](result2.png)
+![About](about.png)
