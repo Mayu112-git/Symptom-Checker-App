@@ -16,3 +16,6 @@ This is an offline Symptom Checker web application built using ASP.NET and SQL S
 1. Open in Visual Studio
 2. Connect database
 3. Run the project
+
+##Output
+![Home](home.png)
